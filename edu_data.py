@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-
 import cx_Oracle
 from pyecharts import options as opts
 from pyecharts.charts import Geo
