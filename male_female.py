@@ -58,7 +58,6 @@ def funnel_label_inside(title, data):
                  )
             .set_global_opts(title_opts=opts.TitleOpts(title=title), legend_opts=opts.LegendOpts(is_show=False),
                              )
-
     )
     return c
 
